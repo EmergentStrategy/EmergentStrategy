@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmergentStrategy
 - 👀 I’m interested in decentralized finance
-- 🌱 I’m currently learning Etherium
+- 🌱 I’m currently learning Ethereum
 - 💞️ I’m looking to collaborate on blockchain development projects
 - 📫 Email me @ perceptionchess@gmail.com
 
